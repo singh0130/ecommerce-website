@@ -1,0 +1,129 @@
+<div id="team-content">
+            <div id="ferrari">
+                <h3>Scuderia Ferrari Pass</h3>
+                <div class="image-container">
+                    <img src="./imgs/logos/ferrari-logo.jpeg" alt="" class="prod-images">
+                </div>
+                <div class="prod-details">
+                    <span>
+                        $<span>13.99</span>
+                    </span>
+                    <button class="shop-item-button" type="button">Add to Cart</button>
+                </div>
+            </div>
+            <div id="mercedes">
+                <h3>Mercedes AMG Petronas F1 Pass</h3>
+                <div class="image-container">
+                    <img src="./imgs/logos/mercedes-logo.jpg" alt="" class="prod-images">
+                </div>
+                <div class="prod-details">
+                    <span>
+                        $<span>13.99</span>
+                    </span>
+                    <button class="shop-item-button" type="button">Add to Cart</button>
+                </div>
+            </div>
+            <div id="redbull">
+                <h3>Oracle Red Bull Racing Pass</h3>
+                <div class="image-container">
+                    <img src="./imgs/logos/redbull-logo.jpg" alt="" class="prod-images">
+                </div>
+                <div class="prod-details">
+                    <span>
+                        $<span>13.99</span>
+                    </span>
+                    <button class="shop-item-button" type="button">Add to Cart</button>
+                </div>
+            </div>
+            <div id="mclaren">
+                <h3>Mclaren F1 Team Pass</h3>
+                <div class="image-container">
+                    <img src="./imgs/logos/mclaren-logo.jpg" alt="" class="prod-images">
+                </div>
+                <div class="prod-details">
+                    <span>
+                        $<span>13.99</span>
+                    </span>
+                    <button class="shop-item-button" type="button">Add to Cart</button>
+                </div>
+            </div>
+            <div id="alpine">
+                <h3>Alpine F1 Team Pass</h3>
+                <div class="image-container">
+                    <img src="./imgs/logos/alpine-logo.png" alt="" class="prod-images">
+                </div>
+                <div class="prod-details">
+                    <span>
+                        $<span>13.99</span>
+                    </span>
+                    <button class="shop-item-button" type="button">Add to Cart</button>
+                </div>
+            </div>
+            <div id="alphatauri">
+                <h3>Scuderia Alpha Tauri Pass</h3>
+                <div class="image-container">
+                    <img src="./imgs/logos/alphatauri-logo.jpg" alt="" class="prod-images">
+                </div>
+                <div class="prod-details">
+                    <span>
+                        $<span>13.99</span>
+                    </span>
+                    <button class="shop-item-button" type="button">Add to Cart</button>
+                </div>
+            </div>
+            <div id="astonmartin">
+                <h3>Aston Martin F1 Team Pass</h3>
+                <div class="image-container">
+                    <img src="./imgs/logos/astonmartin-logo.png" alt="" class="prod-images">
+                </div>
+                <div class="prod-details">
+                    <span>
+                        $<span>13.99</span>
+                    </span>
+                    <button class="shop-item-button" type="button">Add to Cart</button>
+                </div>
+            </div>
+            <div id="williams">
+                <h3>Williams F1 Racing Pass</h3>
+                <div class="image-container">
+                    <img src="./imgs/logos/williams-logo.png" alt="" class="prod-images">
+                </div>
+                <div class="prod-details">
+                    <span>
+                        $<span>13.99</span>
+                    </span>
+                    <button class="shop-item-button" type="button">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+
+
+        <section id="merch" class="container">
+        <h2>Merch</h2>
+        <div id="merch-content">
+            <div id="tshirts">
+                <h3>T-shirts</h3>
+                <div class="image-container">
+                    <img src="./imgs/product/tshirt.jpg" alt="" class="prod-images">
+                </div>
+                <div class="prod-details">
+                    <span>
+                        $<span>13.99</span>
+                    </span>
+                    <button class="shop-item-button" type="button">Add to Cart</button>
+                </div>
+            </div>
+            <div id="posters">
+                <h3>Posters</h3>
+                <div class="image-container">
+                    <img src="./imgs/product/poster.jpg" alt="" class="prod-images">
+                </div>
+                <div class="prod-details">
+                    <span>
+                        $<span>13.99</span>
+                    </span>
+                    <button class="shop-item-button" type="button">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+        </section>
